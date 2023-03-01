@@ -191,7 +191,7 @@ button {
 .avatar{
     position: relative;
     width: 400px;
-    background: url('../Day2_Profile_Card/dev_img.jpg') center no-repeat #000;
+    background: url('./dev_img.jpg') center no-repeat #000;
     background-size: contain;
     display: flex;
     flex-direction: column;
